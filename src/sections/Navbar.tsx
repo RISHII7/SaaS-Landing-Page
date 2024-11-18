@@ -1,7 +1,7 @@
 import Image from "next/image";
 
-import logoImage from "@/assets/images/logo.svg"
 import Button from "@/components/Button";
+import logoImage from "@/assets/images/logo.svg"
 
 const navLinks = [
     { label: "Home", href: "#" },
@@ -57,4 +57,4 @@ export default function Navbar() {
             </div>
         </section>
     );
-}
+};
