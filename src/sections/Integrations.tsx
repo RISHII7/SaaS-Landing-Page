@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Tag from "@/components/Tag";
 
 import figmaIcon from "@/assets/images/figma-logo.svg";
