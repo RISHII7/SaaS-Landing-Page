@@ -5,6 +5,7 @@ import Features from "@/sections/Features";
 import LogoTicker from "@/sections/LogoTicker";
 import Integrations from "@/sections/Integrations";
 import Introduction from "@/sections/Introduction";
+import CallToAction from "@/sections/CallToAction";
 
 export default function Home() {
     return (
@@ -16,6 +17,7 @@ export default function Home() {
             <Features />
             <Integrations />
             <Faqs />
+            <CallToAction />
         </>
     );
 }
